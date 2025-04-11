@@ -1,0 +1,4 @@
+[submodule "jcdecauxgtcustom"]
+	path = jcdecauxgtcustom
+	url = git@github.com:jeffrepo/jcdecauxgtcustom.git
+	branch = master
